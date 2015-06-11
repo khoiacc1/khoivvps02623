@@ -1,0 +1,42 @@
+D:\asm_khoivvps02623\khoivvps02623\khoivvps02623\bin\Debug\khoivvps02623.exe.config
+D:\asm_khoivvps02623\khoivvps02623\khoivvps02623\bin\Debug\khoivvps02623.exe
+D:\asm_khoivvps02623\khoivvps02623\khoivvps02623\bin\Debug\khoivvps02623.pdb
+D:\asm_khoivvps02623\khoivvps02623\khoivvps02623\bin\Debug\khoivvps02623.xml
+D:\asm_khoivvps02623\khoivvps02623\khoivvps02623\obj\Debug\khoivvps02623.frm_Login.resources
+D:\asm_khoivvps02623\khoivvps02623\khoivvps02623\obj\Debug\khoivvps02623.Resources.resources
+D:\asm_khoivvps02623\khoivvps02623\khoivvps02623\obj\Debug\khoivvps02623.vbproj.GenerateResource.Cache
+D:\asm_khoivvps02623\khoivvps02623\khoivvps02623\obj\Debug\khoivvps02623.exe
+D:\asm_khoivvps02623\khoivvps02623\khoivvps02623\obj\Debug\khoivvps02623.xml
+D:\asm_khoivvps02623\khoivvps02623\khoivvps02623\obj\Debug\khoivvps02623.pdb
+D:\khoivvps02623_lab5\asm_khoivvps02623\khoivvps02623\khoivvps02623\bin\Debug\khoivvps02623.exe.config
+D:\khoivvps02623_lab5\asm_khoivvps02623\khoivvps02623\khoivvps02623\obj\Debug\khoivvps02623.exe
+D:\khoivvps02623_lab5\asm_khoivvps02623\khoivvps02623\khoivvps02623\obj\Debug\khoivvps02623.xml
+D:\khoivvps02623_lab5\asm_khoivvps02623\khoivvps02623\khoivvps02623\obj\Debug\khoivvps02623.pdb
+D:\khoivvps02623_lab5\asm_khoivvps02623\khoivvps02623\khoivvps02623\bin\Debug\khoivvps02623.exe
+D:\khoivvps02623_lab5\asm_khoivvps02623\khoivvps02623\khoivvps02623\bin\Debug\khoivvps02623.pdb
+D:\khoivvps02623_lab5\asm_khoivvps02623\khoivvps02623\khoivvps02623\bin\Debug\khoivvps02623.xml
+D:\khoivvps02623_lab5\asm_khoivvps02623\khoivvps02623\khoivvps02623\obj\Debug\khoivvps02623.frmquanly.resources
+D:\khoivvps02623_lab5\asm_khoivvps02623\khoivvps02623\khoivvps02623\obj\Debug\khoivvps02623.frm_Login.resources
+D:\khoivvps02623_lab5\asm_khoivvps02623\khoivvps02623\khoivvps02623\obj\Debug\khoivvps02623.Resources.resources
+D:\khoivvps02623_lab5\asm_khoivvps02623\khoivvps02623\khoivvps02623\obj\Debug\khoivvps02623.vbproj.GenerateResource.Cache
+C:\Users\PC01\Downloads\asm_khoivvps02623\khoivvps02623\khoivvps02623\bin\Debug\khoivvps02623.exe.config
+C:\Users\PC01\Downloads\asm_khoivvps02623\khoivvps02623\khoivvps02623\obj\Debug\khoivvps02623.exe
+C:\Users\PC01\Downloads\asm_khoivvps02623\khoivvps02623\khoivvps02623\obj\Debug\khoivvps02623.xml
+C:\Users\PC01\Downloads\asm_khoivvps02623\khoivvps02623\khoivvps02623\obj\Debug\khoivvps02623.pdb
+E:\FPT polytechnic\SUMMER 2015\điện toán đám mây\asm_khoivvps02623\khoivvps02623\khoivvps02623\bin\Debug\khoivvps02623.exe.config
+E:\FPT polytechnic\SUMMER 2015\điện toán đám mây\asm_khoivvps02623\khoivvps02623\khoivvps02623\obj\Debug\khoivvps02623.exe
+E:\FPT polytechnic\SUMMER 2015\điện toán đám mây\asm_khoivvps02623\khoivvps02623\khoivvps02623\obj\Debug\khoivvps02623.xml
+E:\FPT polytechnic\SUMMER 2015\điện toán đám mây\asm_khoivvps02623\khoivvps02623\khoivvps02623\obj\Debug\khoivvps02623.pdb
+E:\FPT polytechnic\SUMMER 2015\điện toán đám mây\asm_khoivvps02623\khoivvps02623\khoivvps02623\bin\Debug\khoivvps02623.exe
+E:\FPT polytechnic\SUMMER 2015\điện toán đám mây\asm_khoivvps02623\khoivvps02623\khoivvps02623\bin\Debug\khoivvps02623.pdb
+E:\FPT polytechnic\SUMMER 2015\điện toán đám mây\asm_khoivvps02623\khoivvps02623\khoivvps02623\bin\Debug\khoivvps02623.xml
+E:\FPT polytechnic\SUMMER 2015\điện toán đám mây\asm_khoivvps02623\khoivvps02623\khoivvps02623\obj\Debug\khoivvps02623.frmquanly.resources
+E:\FPT polytechnic\SUMMER 2015\điện toán đám mây\asm_khoivvps02623\khoivvps02623\khoivvps02623\obj\Debug\khoivvps02623.frmquanlynhanvien.resources
+E:\FPT polytechnic\SUMMER 2015\điện toán đám mây\asm_khoivvps02623\khoivvps02623\khoivvps02623\obj\Debug\khoivvps02623.frm_Login.resources
+E:\FPT polytechnic\SUMMER 2015\điện toán đám mây\asm_khoivvps02623\khoivvps02623\khoivvps02623\obj\Debug\khoivvps02623.Resources.resources
+E:\FPT polytechnic\SUMMER 2015\điện toán đám mây\asm_khoivvps02623\khoivvps02623\khoivvps02623\obj\Debug\khoivvps02623.vbproj.GenerateResource.Cache
+E:\FPT polytechnic\SUMMER 2015\điện toán đám mây\asm_khoivvps02623\khoivvps02623\khoivvps02623\obj\Debug\khoivvps02623.frmquanlykhachhang.resources
+E:\FPT polytechnic\SUMMER 2015\điện toán đám mây\asm_khoivvps02623\khoivvps02623\khoivvps02623\obj\Debug\khoivvps02623.frmloaisanpham.resources
+E:\FPT polytechnic\SUMMER 2015\điện toán đám mây\asm_khoivvps02623\khoivvps02623\khoivvps02623\obj\Debug\khoivvps02623.frmsanpham.resources
+E:\FPT polytechnic\SUMMER 2015\điện toán đám mây\asm_khoivvps02623\khoivvps02623\khoivvps02623\obj\Debug\khoivvps02623.frmhoadon.resources
+E:\FPT polytechnic\SUMMER 2015\điện toán đám mây\asm_khoivvps02623\khoivvps02623\khoivvps02623\obj\Debug\khoivvps02623.frmchitiethoadon.resources
