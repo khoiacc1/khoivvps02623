@@ -40,3 +40,7 @@ E:\FPT polytechnic\SUMMER 2015\điện toán đám mây\asm_khoivvps02623\khoivv
 E:\FPT polytechnic\SUMMER 2015\điện toán đám mây\asm_khoivvps02623\khoivvps02623\khoivvps02623\obj\Debug\khoivvps02623.frmsanpham.resources
 E:\FPT polytechnic\SUMMER 2015\điện toán đám mây\asm_khoivvps02623\khoivvps02623\khoivvps02623\obj\Debug\khoivvps02623.frmhoadon.resources
 E:\FPT polytechnic\SUMMER 2015\điện toán đám mây\asm_khoivvps02623\khoivvps02623\khoivvps02623\obj\Debug\khoivvps02623.frmchitiethoadon.resources
+C:\Users\PC01\Downloads\khoivvps02623\bin\Debug\khoivvps02623.exe.config
+C:\Users\PC01\Downloads\khoivvps02623\obj\Debug\khoivvps02623.exe
+C:\Users\PC01\Downloads\khoivvps02623\obj\Debug\khoivvps02623.xml
+C:\Users\PC01\Downloads\khoivvps02623\obj\Debug\khoivvps02623.pdb

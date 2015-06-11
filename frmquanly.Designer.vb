@@ -33,13 +33,14 @@ Partial Class frmquanly
         Me.LoạiSảnPhẩmToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.KháchHàngToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.PictureBox1 = New System.Windows.Forms.PictureBox()
+        Me.HỗTrợToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.MenuStrip1.SuspendLayout()
         CType(Me.PictureBox1, System.ComponentModel.ISupportInitialize).BeginInit()
         Me.SuspendLayout()
         '
         'MenuStrip1
         '
-        Me.MenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.HệThốngToolStripMenuItem, Me.SảnPhẩmToolStripMenuItem, Me.LoạiSảnPhẩmToolStripMenuItem, Me.KháchHàngToolStripMenuItem})
+        Me.MenuStrip1.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.HệThốngToolStripMenuItem, Me.SảnPhẩmToolStripMenuItem, Me.LoạiSảnPhẩmToolStripMenuItem, Me.KháchHàngToolStripMenuItem, Me.HỗTrợToolStripMenuItem})
         Me.MenuStrip1.Location = New System.Drawing.Point(0, 0)
         Me.MenuStrip1.Name = "MenuStrip1"
         Me.MenuStrip1.Size = New System.Drawing.Size(591, 24)
@@ -105,6 +106,12 @@ Partial Class frmquanly
         Me.PictureBox1.TabIndex = 1
         Me.PictureBox1.TabStop = False
         '
+        'HỗTrợToolStripMenuItem
+        '
+        Me.HỗTrợToolStripMenuItem.Name = "HỗTrợToolStripMenuItem"
+        Me.HỗTrợToolStripMenuItem.Size = New System.Drawing.Size(56, 20)
+        Me.HỗTrợToolStripMenuItem.Text = "Hỗ Trợ"
+        '
         'frmquanly
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -135,4 +142,5 @@ Partial Class frmquanly
     Friend WithEvents QuảnLýKháchHàngToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents HóaĐơnToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
     Friend WithEvents ĐăngXuấtToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
+    Friend WithEvents HỗTrợToolStripMenuItem As System.Windows.Forms.ToolStripMenuItem
 End Class
